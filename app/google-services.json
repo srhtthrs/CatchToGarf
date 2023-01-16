@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "735860887281",
+    "project_id": "catchtogarf2",
+    "storage_bucket": "catchtogarf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735860887281:android:c7459af66f657bdb1e2350",
+        "android_client_info": {
+          "package_name": "com.fisunkayaproject.catchtogarf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735860887281-1qb853mt0t63aileje18m7tc4tvr3n7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3lfYd_q6g6SNkfTlBJTB2lmfE5o0OjYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735860887281-1qb853mt0t63aileje18m7tc4tvr3n7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
